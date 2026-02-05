@@ -1,2 +1,4 @@
 This is file 1
 Add another file to commit
+Add another file to commit
+Add another file to commit
